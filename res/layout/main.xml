@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/bg"
+              android:gravity="bottom"
+
+	>
+	<ImageButton
+		android:id="@+id/fa_action_view2"
+		android:orientation="vertical"
+		android:layout_width="73dp"
+		android:layout_height="73dp"
+		android:scaleType="fitCenter"
+		android:padding="25dp"
+		android:layout_marginRight="16dp"
+		android:layout_marginBottom="16dp"
+		android:layout_gravity="right"
+		android:background="@drawable/fa_default_background"
+		/>
+	<ImageButton
+		android:id="@+id/fa_action_view1"
+		android:orientation="vertical"
+		android:layout_width="73dp"
+		android:layout_height="73dp"
+		android:scaleType="fitCenter"
+		android:padding="25dp"
+		android:layout_marginRight="16dp"
+		android:layout_marginBottom="16dp"
+		android:layout_gravity="right"
+		android:background="@drawable/fa_default_background"
+		/>
+	<ImageButton
+		android:id="@+id/fa_action_view"
+		android:orientation="vertical"
+		android:layout_width="73dp"
+		android:layout_height="73dp"
+		android:scaleType="fitCenter"
+		android:padding="25dp"
+		android:layout_marginRight="16dp"
+		android:layout_marginBottom="16dp"
+		android:layout_gravity="right"
+		android:background="@drawable/fa_default_background"
+		/>
+
+
+</LinearLayout>
+
